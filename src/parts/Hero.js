@@ -22,7 +22,7 @@ export default function Hero(props) {
                 <div className="col-auto pr-2" style={{ width: 555 }}>
                     <h1 className="font-weight-bold line-height-1 mb-3">
                         forget the busy work, <br />
-                        get <span style={{ color: '#294ADD' }}>fun</span> your next <span style={{ color: '#294ADD' }}>vacation</span>
+                        get <span style={{ color: '#294ADD' }}> fun</span> your next <span style={{ color: '#294ADD' }}>vacation</span>
                     </h1>
                     <p className="mb-4 font-weight-light text-gray-500" style={{ lineHeight: "170%" }}>
                         we provide what you need to enjoy your holiday with family.
