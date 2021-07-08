@@ -64,34 +64,34 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "botanic lodge",
           "imageUrl": "/images/image-category-1.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "indonesia",
+          "city": "bogor",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "hill side",
           "imageUrl": "/images/image-category-2.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "indonesia",
+          "city": "puncak",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "seatle like",
           "imageUrl": "/images/image-category-3.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "indonesia",
+          "city": "bandung",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "rumah eyang",
           "imageUrl": "/images/image-category-4.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "indonesia",
+          "city": "batu",
           "isPopular": false
         }
       ]
@@ -102,72 +102,72 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "fams hotel",
           "imageUrl": "/images/image-category-5.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "indonesia",
+          "city": "garut",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "bromo indah",
           "imageUrl": "/images/image-category-6.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "indonesia",
+          "city": "malang",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "mahameru",
           "imageUrl": "/images/image-category-7.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
+          "country": "indonesia",
+          "city": "malang",
+          "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "hotel pahlawan",
           "imageUrl": "/images/image-category-8.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": true
+          "country": "indonesia",
+          "city": "surabaya",
+          "isPopular": false
         }
       ]
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Apartments with kitchen set",
+      "name": "Apartments with kitchen",
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "hitamputih",
           "imageUrl": "/images/image-category-9.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "indonesia",
+          "city": "jakarta",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "woodlike",
           "imageUrl": "/images/image-category-10.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-11.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "indonesia",
+          "city": "semarang",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "moderna",
+          "imageUrl": "/images/image-category-11.jpg",
+          "country": "indonesia",
+          "city": "medan",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "american like",
           "imageUrl": "/images/image-category-12.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "indonesia",
+          "city": "surabaya",
           "isPopular": false
         }
       ]
